@@ -1,10 +1,10 @@
-%   Code_Package Name：A three-component polarimetric decomposition method constrained by MF3C (TCPD-MF) DEMO
+%   Code_Package Name：A three-component polarimetric decomposition method constrained by MF3C DEMO
 %  Author:   Wenxin Xue (wenxin@cug.edu.cn), China University of Geosciences (Wuhan)
 %  Tutor: Qinghua Xie (xieqh@cug.edu.cn), China University of Geosciences (Wuhan)
 %  Date: Sep. 2025
 
 
-This demo shows the three-component polarimetric decomposition method constrained by MF3C (TCPD-MF) for soil moisture retrieval.
+This TCPD-MF-SM-Demo shows the three-component polarimetric decomposition method constrained by MF3C (TCPD-MF) for soil moisture (SM) retrieval.
 
 % Step 1: Utilize SNAP  for data preprocessing to generate the T3 matrix and local incidence angle (IA). Load the resulting .mat file (Data_T3_IA.mat) into MATLAB.
 
